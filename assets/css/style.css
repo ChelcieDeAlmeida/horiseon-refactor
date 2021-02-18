@@ -116,6 +116,9 @@ p {
     text-align: center;
 }
 
+/* consolidating benefit-lead, brand, and cost to one CSS selecter called benefits img because all three
+share the same properties */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
